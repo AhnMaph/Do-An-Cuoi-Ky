@@ -1,6 +1,6 @@
 Decision tree: 
 
-https://www.youtube.com/watch?v=sgQAhG5Q7iY 
+Code: https://www.youtube.com/watch?v=sgQAhG5Q7iY 
 
 https://towardsdatascience.com/decision-trees-explained-entropy-information-gain-gini-index-ccp-pruning-4d78070db36c
 
