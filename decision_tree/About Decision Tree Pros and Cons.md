@@ -2,8 +2,7 @@
 > Ở trong bài báo cáo này trước hết em sẽ trình bày trước hết là về **Decision Tree** cơ sở của **Random Forest**. Mục đích là để thấy được các điểm như sau:
 
 1. Nguyên lý hoạt động của Decision Tree
-2. Tính đơn giản mà hiệu quả của Decision Tree
-3. Hạn chế của Decision Tree  
+2. Hạn chế của Decision Tree  
 ## I. Nguyên lý hoạt động
 >Em sẽ sử dụng dataset có sẵn Iris, đây là một dataset về phân loại (classification) các loài hoa.
 > Để dễ dàng visualize em sẽ chỉ sử dụng 2 features và phân loại nếu cây này là cây **Iris-virginica** và **Iris-setosa**
