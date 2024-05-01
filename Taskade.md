@@ -1,5 +1,5 @@
 ### NỘI DUNG VÀ NHIỆM VỤ/YÊU CẦU (Liệt kê dưới dạng gạch đầu dòng từng nội dung và yêu cầu, nhiệm vụ cần giải quyết)
-−	 Xây dựng random forest (Hoàn thành)
+−	 Xây dựng random forest **(Hoàn thành)**
 
 −	Giải thích chi tiết về thuật toán (nguồn gốc, nguyên lý cơ bản) **(Hoàn thành)** 
 
