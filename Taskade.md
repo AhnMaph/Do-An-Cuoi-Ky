@@ -11,4 +11,3 @@
 
 −	 Đánh giá về điểm yếu và điểm mạnh của mô hình so với Decision Tree **(Hoàn thành)**
 
-−	Áp dụng vào một bài toán thực tế (dựa vào điểm đánh giá năng lực từ năm 2018 tới nay để dự đoán một sinh viên có số điểm là  X có thể thi đậu vào một ngành Y trong trường UIT không)
