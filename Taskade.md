@@ -1,13 +1,10 @@
 ### NỘI DUNG VÀ NHIỆM VỤ/YÊU CẦU (Liệt kê dưới dạng gạch đầu dòng từng nội dung và yêu cầu, nhiệm vụ cần giải quyết)
-−	 Xây dựng random forest **(Hoàn thành)**
-
-−	Giải thích chi tiết về thuật toán (nguồn gốc, nguyên lý cơ bản) **(Hoàn thành)** 
-
-−	Ứng dụng trên các dataset có sẵn trên kaggle để kiểm tra độ chính xác ( mục tiêu: trên 50%) **(Hoàn thành)**
-
-−	 Đánh giá độ chính xác bằng các metrics và confusion matrix, vẽ biểu đồ so sánh giữa validation test và train test **(Hoàn thành)**
-
-−	 So sánh với Decision Tree, và các thuật toán khác (Yêu cầu: Thấy được sự tối ưu hoặc nhược điểm ) **(Hoàn thành)**
-
-−	 Đánh giá về điểm yếu và điểm mạnh của mô hình so với Decision Tree **(Hoàn thành)**
-
+−	Tìm hiểu về nền tảng nguồn gốc, các khái niệm cơ bản, cách hoạt động của 
+Random Forest (Decision tree, Bootstrap data, Random Feature Selection, 
+Aggregation) 
+− Đánh giá về điểm yếu và điểm mạnh của mô hình so sánh với Decision Tree (Yêu 
+cầu: Thấy được sự tối ưu hoặc nhược điểm ) 
+− Ứng dụng thực tế xây dựng mô hình máy học áp dụng thuật toán RandomForest  
+để phân loại cây trong dataset Iris (Iris Species (kaggle.com)) 
+− Đánh giá độ chính xác bằng các metrics và confusion matrix (yêu cầu trên 80%), 
+vẽ biểu đồ minh họa.
