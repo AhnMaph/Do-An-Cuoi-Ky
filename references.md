@@ -21,8 +21,6 @@ https://www.youtube.com/watch?v=sgQAhG5Q7iY
 
 https://www.youtube.com/watch?v=v6VJ2RO66Ag
 
-https://insidelearningmachines.com/build-a-random-forest-in-python/#Motivation_to_Build_a_Random_Forest_Model
-
 ### III. Dataset
 
 https://www.kaggle.com/datasets/uciml/iris
